@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  dar-app:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2021-02-04T13:38:40.449468509+06:00"
+    description: dar-app
+    digest: 3e450597e59ad581282edcc2ae4e61d98e2fba080475b7677be118438ea4066e
+    name: dar-app
+    urls:
+    - https://okassov.github.io/dar-helm-charts/dar-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-02-04T13:38:40.449147601+06:00"
