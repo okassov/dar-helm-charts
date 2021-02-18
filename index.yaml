@@ -3,16 +3,16 @@ entries:
   dar-app:
   - apiVersion: v1
     appVersion: 2.0.0
-    created: "2021-02-18T19:31:56.665838757+06:00"
+    created: "2021-02-18T19:51:35.651576597+06:00"
     description: dar-app version 2.0.0 with ArgoCD Rollouts
-    digest: 475d5cee749f7f72580ee4b7681dab633a6d3cad485a810cc9c9d5ccfee7ec7d
+    digest: 209596bfc958962b8424be769eb6af882a1bebe2d6f3b256c78db7252e7899a4
     name: dar-app
     urls:
     - https://okassov.github.io/dar-helm-charts/dar-app-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-02-18T19:31:56.665624276+06:00"
+    created: "2021-02-18T19:51:35.651067702+06:00"
     description: dar-app
     digest: 3e450597e59ad581282edcc2ae4e61d98e2fba080475b7677be118438ea4066e
     name: dar-app
@@ -22,7 +22,7 @@ entries:
   dar-app-rollouts:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-02-18T19:31:56.666022893+06:00"
+    created: "2021-02-18T19:51:35.651764362+06:00"
     description: dar-app-rollouts
     digest: df7953d2ea338c2e1b392940c9a67a5b79068b174899b2b16943d1b3b0728104
     name: dar-app-rollouts
@@ -32,11 +32,11 @@ entries:
   dar-argocd:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-02-18T19:31:56.667220862+06:00"
+    created: "2021-02-18T19:51:35.65294423+06:00"
     description: A Helm chart for argocd app of apps.
     digest: 5599d52c353e4a87d06fa7aadfa78a04f6a32c573055c3459e294a344bf63d3f
     name: dar-argocd
     urls:
     - https://okassov.github.io/dar-helm-charts/dar-argocd-1.0.0.tgz
     version: 1.0.0
-generated: "2021-02-18T19:31:56.6653294+06:00"
+generated: "2021-02-18T19:51:35.650759118+06:00"
